@@ -7,5 +7,4 @@
 
 ## ScreenShot
 
-![Screenshot 2024-06-22 093149](https://github.com/debo-220102022/Task-1/assets/171784244/0e79ffdd-d037-4fb3-9e15-5ab0249419b9)
-
+![Screenshot 2024-06-23 151955](https://github.com/debo-220102022/Task-1/assets/171784244/da86f6a2-b709-4130-a8bf-977ff684a16d)
